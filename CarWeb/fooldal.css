@@ -1,0 +1,101 @@
+body{
+    background-image: url(./img/148832-car-Mercedes-Benz-Mercedes-AMG-Mercedes-AMG-GT-R-city-town-building-night-city-lights-green-car-green-cars.jpg);
+}
+
+a:active{
+    color: green;
+}
+
+#nev{
+    color: blue;
+    text-align: center;
+    size: 20px;
+    text-decoration: underline 2px;
+    text-decoration: bold;
+}
+
+
+.napok{
+    color:darkcyan;
+    text-align: center;
+    margin: 2px;
+}
+
+#nyitva{
+    text-align: center;
+}
+
+
+
+.vonal1{
+    width: 60%;
+    height: 6px;
+    margin: auto;
+    color: black;
+}
+
+#info{
+    text-align: center;
+    padding: 1px;
+}
+
+p{
+    text-align: center;
+    color: black;
+    padding: 1px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.infok{
+    text-align: left;
+    padding-left: 20px;
+    text-decoration: underline wheat;
+}
+
+
+.container{
+    float:unset;
+}
+
+.lablec{
+    color: #d4d4d4;
+
+
+
+    padding:20px;
+
+    margin-top:15%;
+    margin-bottom:20px;
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+#FB{
+    padding:5px;
+}
+
+#IG{
+    padding:5px;
+}
+
+p{
+    color: #d4d4d4;
+}
+
+hr {
+    top: 20px;
+    border: none;
+    height: 6px;
+    color: black ;
+    margin-bottom: 50px;
+    background: black;
+}
+
+h1,h2{
+    color: wheat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

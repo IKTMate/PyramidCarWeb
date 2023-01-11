@@ -1,0 +1,195 @@
+body{
+    background-color: rgb(185, 240, 221);
+
+}
+
+a:active{
+    color: green;
+}
+
+#nev{
+    color: blue;
+    text-align: center;
+    size: 20px;
+    text-decoration: underline 2px;
+    text-decoration: bold;
+}
+
+
+.napok{
+    color:darkcyan;
+    text-align: center;
+    margin: 2px;
+}
+
+#nyitva{
+    text-align: center;
+}
+
+
+.vonal1{
+    width: 60%;
+    height: 100;
+    margin: auto;
+    color: black;
+}
+
+#info{
+    text-align: center;
+    padding: 1px;
+}
+
+p{
+    text-align: center;
+    color: black;
+    padding: 1px;
+}
+
+
+.infok{
+    text-align: left;
+    padding-left: 20px;
+}
+
+
+.container{
+    float:unset;
+}
+
+.lablec{
+    background-color:cadetblue;
+    color: #d4d4d4;
+
+    border-right: 2px rgb(0, 89, 255) solid;
+    border-left: 2px rgb(0, 89, 255) dotted;
+
+    border: 2px rgb(0, 89, 255) solid;
+
+    padding:20px;
+
+    margin-top:20px;
+    margin-bottom:20px;
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+#marka{
+    text-align: center;
+    padding-top: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#FB{
+    padding:5px;
+}
+
+#IG{
+    padding:5px;
+}
+
+
+
+.lista{
+padding: 0px;
+text-decoration: none;
+}
+
+
+.lista h2{
+    text-align: center;
+}
+
+#container{
+    background-color:aquamarine;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top:25px ;
+    border:  1px #1e1e1e solid;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+}
+
+
+.kepek1{
+    border: 1px #1e1e1e solid;
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: auto;
+    display: flex;
+    border: 1px rgb(6, 6, 114) solid;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.kepek2{
+    border: 1px #1e1e1e solid;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: 500px;
+    display: flex;
+    border: 1px rgb(6, 6, 114) solid;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+
+.lei1{
+    text-align: left;
+    margin-left: 13%;
+}
+.lei2{
+    text-align: right;
+    margin-right: 37%;
+}
+
+.ar1{
+    text-align: left;
+    margin-left: 14%;
+}
+
+
+.ar2{
+    text-align: right;
+    margin-right: 37%;
+}
+
+.arsub{
+    text-align: left;
+    margin-left: 14%;
+}
+
+.ardus{
+    text-align: left;
+    margin-left: 13%;
+}
+
+.arx6{
+    text-align: left;
+    margin-left: 12%;
+}
+
+.arm4{
+    text-align: right;
+    margin-right: 37%;
+}
+
+.ar63{
+    text-align: left;
+    margin-left: 14%;
+}
+
+.ars500{
+    text-align: right;
+    margin-right: 39%;
+}
